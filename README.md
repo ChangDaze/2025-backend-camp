@@ -450,3 +450,7 @@ ISC
 ## 後端API文件
 
 https://liberating-turtle-5a2.notion.site/38e4dd6775894e94a8f575f20ca5b867?v=17c6a24685188105af61000cb9bfaa46
+
+## 每日任務
+
+https://hexschool.github.io/backend-camp-game/
