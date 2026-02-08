@@ -17,6 +17,7 @@
 ## 技術
 
 ### 後端
+
 - **框架**: Express.js
 - **資料庫**: PostgreSQL 16.4
 - **ORM**: TypeORM
@@ -26,6 +27,7 @@
 - **測試**: Jest
 
 ### 前端
+
 - **框架**: Vue 3
 - **建構工具**: Vite
 - **路由**: Vue Router
@@ -35,6 +37,7 @@
 - **HTTP 客戶端**: Axios
 
 ### 基礎設施
+
 - **容器化**: Docker & Docker Compose
 - **資料庫**: PostgreSQL (Alpine Linux)
 - **Node 版本**: 24 (Alpine)
@@ -443,3 +446,7 @@ frontend/
 ## 授權
 
 ISC
+
+## 後端API文件
+
+https://liberating-turtle-5a2.notion.site/38e4dd6775894e94a8f575f20ca5b867?v=17c6a24685188105af61000cb9bfaa46
